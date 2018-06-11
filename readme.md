@@ -38,7 +38,7 @@ If you use https, use this instead
 git clone https://github.com/samuelayo/terminal-chat.git .
 ```
 
-install Pysher from the github link, as the one delived to pypy is outdated.
+install Pysher from the github link, as the one delivered to pypy is outdated.
 
 ```
 pip install git+https://github.com/nlsdfnbch/Pysher.git
