@@ -9,7 +9,6 @@ pusher==2.0.1
 pyasn1==0.4.3
 pycparser==2.18
 pyOpenSSL==18.0.0
-Pysher==0.4.2
 python-dotenv==0.8.2
 requests==2.18.4
 six==1.11.0
