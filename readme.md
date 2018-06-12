@@ -1,6 +1,6 @@
 # How to build a Realtime chat app in the terminal using Python and Pusher Channels
 
-Realtime chat is virtually any online communication that provides a realtime or live transmission of text messages from sender to receiver. This tutorial will show you how to build a realtime terminal chat using Python and Pusher channels. The full tutorial can be found here : [to be updated ](https://pusher.com/tutorials/#) 
+Realtime chat is virtually any online communication that provides a realtime or live transmission of text messages from sender to receiver. This tutorial will show you how to build a realtime terminal chat using Python and Pusher channels. The full tutorial can be found here : [here](https://pusher.com/tutorials/chat-terminal-python) 
 
 ## Getting Started
 First, we need to install a package called `virtualenv`. Virtualenv helps to manage environments in python. This is so we do not end up with conflicting libraries due to install operations from project to project. To install Virtualenv, we run:
